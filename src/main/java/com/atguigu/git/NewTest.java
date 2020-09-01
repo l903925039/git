@@ -6,5 +6,8 @@ public class NewTest {
         System.out.println("master");//master test
         System.out.println("master");//master test
         System.out.println("master");//hotfix
+        System.out.println("hello world");
+        System.out.println("master");
+        System.out.println("github");
     }
 }
